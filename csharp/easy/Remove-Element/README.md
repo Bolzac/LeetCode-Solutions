@@ -1,4 +1,4 @@
-## 1. Remove Element
+## Remove Element
 
 Problem link: <a href="https://leetcode.com/problems/remove-element/"> Remove Element </a>
 

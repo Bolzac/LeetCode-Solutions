@@ -1,4 +1,4 @@
-## 1. Two Sum
+## Two Sum
 
 Problem link: <a href="https://leetcode.com/problems/two-sum/"> Two Sum </a>
 
